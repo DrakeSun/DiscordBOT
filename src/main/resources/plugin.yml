@@ -1,0 +1,5 @@
+main: pl.daneu.discordbot.DiscordBOT
+name: DiscordBOT
+version: 1.0
+api-version: 1.8
+author: Daneu
